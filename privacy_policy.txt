@@ -1,0 +1,1 @@
+This app collects business addresses and business capacity information to help users view and share real-time occupancy data. We use your device’s location to send relevant push notifications when you are near places requesting capacity updates. Your location data is only used for this purpose and is never shared or sold.
